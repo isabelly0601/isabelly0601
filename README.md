@@ -10,7 +10,6 @@ Atuo como **Consultor Cloud Computing / Data Center Virtual** na **Uppertec**, o
 - 👨‍🏫 Atualmente, dedico parte do meu tempo ao ensino de tecnologia, produzindo conteúdos e oficinas práticas para alunos do ensino fundamental ao técnico.
 - 📚 Uso este repositório para compartilhar materiais, projetos e experiências com a comunidade.
 
-📫 Contato: [LinkedIn](https://www.linkedin.com/in/mizaelsouto) |
 
 ---
 
