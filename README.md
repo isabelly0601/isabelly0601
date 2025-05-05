@@ -1,5 +1,5 @@
 ## Olá 👋 Eu sou Isabelly vitoria
-https://github.com/isabelly0601
+
 Sou Analista de Sistemas, educador e consultor em tecnologia, com foco em criar soluções inteligentes, escaláveis e seguras. 
 
 Atuo como **Consultor Cloud Computing / Data Center Virtual** na **Uppertec**, onde projeto ambientes em **nuvem pública, híbrida e soluções on-premise**, sempre com foco em **alta disponibilidade**, **resiliência**, **monitoramento contínuo** e **recuperação de desastres**. As arquiteturas são desenhadas para suportar o crescimento sustentável das aplicações, atendendo às demandas específicas de cada cliente.
