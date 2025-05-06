@@ -13,11 +13,6 @@ Atuo como **Consultor Cloud Computing / Data Center Virtual** na **Uppertec**, o
 
 ---
 
-Por onde eu já passei!
-<p align="left"> <a href="https://www.ibm.com" target="_blank"> <img src="https://img.shields.io/badge/IBM-0530AD?style=for-the-badge&logo=IBM&logoColor=white" alt="IBM" /> </a> <a href="https://www.csu.com.br/" target="_blank"> <img src="https://img.shields.io/badge/CSU-002E5D?style=for-the-badge&logoColor=white" alt="CSU" /> </a> <a href="https://www.sonda.com/" target="_blank"> <img src="https://img.shields.io/badge/SONDA--IT-000000?style=for-the-badge&logoColor=white" alt="SONDA IT" /> </a> <a href="https://delreyrefrigerantes.com.br/" target="_blank"> <img src="https://img.shields.io/badge/Delrey_Refrigerantes-228B22?style=for-the-badge&logoColor=white" alt="Delrey Refrigerantes" /> </a> </p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
