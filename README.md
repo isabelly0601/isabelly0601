@@ -22,37 +22,12 @@ Atuo como **Consultor Cloud Computing / Data Center Virtual** na **Uppertec**, o
 
 ## 🚀 Linguagens e Tecnologias
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="40" alt="Perl" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
-</p>
 
+<img src="https://sunkids.com.br/cdn/shop/articles/a_hello_kitty_nao_e_uma_gata.png?v=1730731310&amp;width=1100" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1100px; height: 315px; margin: 0px; width: 559px;" alt="A Hello Kitty não é uma gata? 26 Curiosidades sobre a Hello Kitty! – SunKids" jsname="kn3ccd">
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d1285ea5-983e-405e-a17e-53673b2a3041" alt="Imagem centralizada" />
-</p>
 
----
-## Hi there 👋
 
-<!--
-**isabelly0601/isabelly0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
