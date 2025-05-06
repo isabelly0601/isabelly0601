@@ -25,7 +25,7 @@ Atuo como **Consultor Cloud Computing / Data Center Virtual** na **Uppertec**, o
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 
-<img src="https://sunkids.com.br/cdn/shop/articles/a_hello_kitty_nao_e_uma_gata.png?v=1730731310&amp;width=1100" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1100px; height: 120px; margin: 0px; width: 559px;" alt="A Hello Kitty não é uma gata? 26 Curiosidades sobre a Hello Kitty! – SunKids" jsname="kn3ccd">
+<img src="https://sunkids.com.br/cdn/shop/articles/a_hello_kitty_nao_e_uma_gata.png?v=1730731310&amp;width=1100" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1100px; height: 300px; margin: 0px; width: 559px;" alt="A Hello Kitty não é uma gata? 26 Curiosidades sobre a Hello Kitty! – SunKids" jsname="kn3ccd">
 ---
 <img src="https://i.pinimg.com/736x/22/f4/21/22f4216ca1ef6e2125c6e174c867ca59.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 120px; height: 469px; margin: 0px; width: 264px;" alt="koromi 🫀" jsname="kn3ccd">
 <img alt="" class="hCL kVc L4E MIw" fetchpriority="high" loading="auto" src="https://i.pinimg.com/120x/e9/0c/9e/e90c9eae5c2641f314aef72f67761919.jpg">
